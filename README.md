@@ -33,6 +33,5 @@ total number of tasks and the total number of users are be
 displayed in a user-friendly manner.
 
 ## Author
-
-**Name:** JP Geyer
+**Name:** JP Geyer  
 **Email:** jpgeyergit@petalmail.com
